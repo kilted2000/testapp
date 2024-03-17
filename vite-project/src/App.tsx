@@ -7,6 +7,7 @@ function App() {
     <>
   <div>
     <h1>Hello Worlds</h1>
+    <p>Metronome, Metronome, Metronome</p>
   </div>
     </>
   )
